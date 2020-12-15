@@ -13,7 +13,7 @@ import seaborn as sns
 
 
 ## Read data
-full_data = pd.read_csv('C:\\Users\\GKVSZ\\OneDrive - Bayer\\Personal Data\\Ekta\\weather+sales\\full_data.csv')
+full_data = pd.read_csv('C:\\Users\\Ekta\\weather+sales\\full_data.csv')
 
 
 # In[4]:
